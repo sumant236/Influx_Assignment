@@ -131,3 +131,7 @@
     padding: 1% 2%;
     color: white;
 }
+.date{
+    display: flex;
+    gap: 5px;
+}
